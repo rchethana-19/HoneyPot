@@ -1,0 +1,2 @@
+timestamp,src_ip,eventid,input
+2025-06-15T19:27:15Z,127.0.0.1,cowrie.command.input,cat /etc/passwd
