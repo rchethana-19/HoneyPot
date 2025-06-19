@@ -6,7 +6,7 @@ A beginner-friendly cybersecurity project that sets up and simulates attacks on 
 - ✅ Deploy a Cowrie SSH honeypot on a local virtual machine.
 - ✅ Simulate brute-force attacks and common reconnaissance behavior.
 - ✅ Collect and parse logs.
-- 🔜 Begin basic AI-based pattern analysis on attacker behavior.
+
 
 ## Setup
 See `setup_instructions.md` for complete environment installation steps.
