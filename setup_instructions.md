@@ -1,4 +1,4 @@
-# Honeypot Setup Instructions (Day 1)
+# Honeypot Setup Instructions (Part 1)
 
 ## 1. Environment
 - OS: Ubuntu (VM)
