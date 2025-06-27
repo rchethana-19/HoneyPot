@@ -1,2 +1,13 @@
 timestamp,src_ip,eventid,input
 2025-06-15T19:27:15Z,127.0.0.1,cowrie.command.input,cat /etc/passwd
+2025-06-27T12:36:10.189092Z,192.168.64.2,cowrie.ssh.version,Remote SSH version: SSH-1.5-NmapNSE_1.0
+2025-06-27T12:36:10.191222Z,192.168.64.2,cowrie.ssh.version,Remote SSH version: SSH-1.5-Nmap-SSH1-Hostkey
+2025-06-27T12:36:10.203268Z,192.168.64.2,cowrie.ssh.version,Remote SSH version: SSH-2.0-Nmap-SSH2-Hostkey
+2025-06-27T12:36:10.207241Z,192.168.64.2,cowrie.ssh.disconnect,Disconnecting with error, code 3 reason: couldn't match all kex parts
+2025-06-27T12:36:10.225610Z,192.168.64.2,cowrie.ssh.kex,kex alg=diffie-hellman-group14-sha1 key alg=ssh-rsa
+2025-06-27T12:36:10.291056Z,192.168.64.2,cowrie.ssh.fingerprint,SSH client hassh fingerprint: e788c657d1a22971d5026526ffd2e918
+2025-06-27T12:36:10.349421Z,192.168.64.2,cowrie.ssh.disconnect,Disconnecting with error, code 3 reason: couldn't match all kex parts
+2025-06-27T12:36:10.383669Z,192.168.64.2,cowrie.ssh.fingerprint,SSH client hassh fingerprint: e788c657d1a22971d5026526ffd2e918
+2025-06-27T12:37:15.183625Z,192.168.64.2,cowrie.ssh.version,Remote SSH version: SSH-2.0-OpenSSH_9.9p1 Debian-3
+2025-06-27T12:37:17.559448Z,192.168.64.2,cowrie.ssh.userdb,Could not read etc/userdb.txt, default database activated
+2025-06-27T12:37:17.560581Z,192.168.64.2,cowrie.login.success,login attempt [root/toor] succeeded
