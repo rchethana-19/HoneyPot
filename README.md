@@ -1,4 +1,4 @@
-# NeuroShield: Cowrie Honeypot Project
+# Cowrie Honeypot Project
 
 A beginner-friendly cybersecurity project that sets up and simulates attacks on a Cowrie honeypot, collects logs, and begins basic log analysis.
 
